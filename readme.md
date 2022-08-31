@@ -47,9 +47,9 @@ Add new **Parameters:**
 
 - `down_site_url` `{TRIGGER.URL}`
 - `duration` `{EVENT.DURATION}`
-- `event_ack_stauts` `{EVENT.ACK.STATUS}`
+- `event_ack_status` `{EVENT.ACK.STATUS}`
 - `event_name` `{EVENT.NAME}`
-- `event_update_message` `{EVENT.UPDATE.MASSAGE}`
+- `event_update_message` `{EVENT.UPDATE.MESSAGE}`
 - `host_ip` `{HOST.IP}`
 - `host_web` `{TRIGGER.NAME}`
 
